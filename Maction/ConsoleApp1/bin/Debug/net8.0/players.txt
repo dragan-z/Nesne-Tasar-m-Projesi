@@ -1,0 +1,2 @@
+ahmetberkay|1234|ahmet|0
+kaan123|1234|Kaan|17
